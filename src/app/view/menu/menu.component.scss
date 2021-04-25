@@ -1,0 +1,100 @@
+.access-bar {
+  background-color: #1B0088;
+  color:white;
+  width:306px;
+  height:100vh;
+}
+
+.user-img {
+  background-image: url(../../../assets/img/Elipse5.png);
+  background-repeat: no-repeat;
+  background-position: center left 15px;
+}
+
+.exit-img {
+  background: transparent;
+  background-image: url(../../../assets/img/Icon-material-exit-to-app.png);
+  background-repeat: no-repeat;
+  background-position: center right ;
+}
+
+.menu-up-img {
+  background-image: url(../../../assets/img/iconoup.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+.list-img {
+  background-image: url(../../../assets/img/iconolist.png);
+  background-repeat: no-repeat;
+  background-position: center left;
+}
+
+h1 {
+  font-family: helvetica;
+  font-size: 31px;
+  padding-top: 51px;
+  margin-left: 36px;
+  margin-top: 0px;
+}
+
+.user {
+  margin: 35px;
+  border-top: 1px solid #EEEEEE;
+  border-bottom: 1px solid #EEEEEE;
+  font-family: arial;
+  font-size: 14px;
+  margin-left: 39px;
+  padding-left: 64px;
+  padding-top: 35px;
+  padding-bottom: 35px;
+}
+
+.menu-info, .option-menu-info {
+  list-style: none;
+}
+
+.menu-info {
+  ul {
+    a {
+      text-decoration: none;
+      font-family: Arial Black;
+      font-size: 16px;
+      color: white;
+      padding-bottom: 10px;
+      padding-right: 84px;
+      border-bottom: 2px solid #ED1650;
+    }
+  }
+}
+
+.option-menu-info {
+  ul {
+    a {
+      align-items: center;
+      font-size: 14px;
+      padding: 15px 76px 10px 25px;
+      border-bottom: 2px solid #00AFA9;
+    }
+  }
+}
+
+.option-menu-info {
+  ul {
+    margin-top: 25px;
+  }
+}
+
+.menu-info {
+  margin-bottom: calc(95vh - 314px);
+}
+
+.logout{
+  margin-left: 103px;
+  position: relative;
+  padding-right: 25px;
+  color: white;
+  font-family: Arial;
+  font-size: 14px;
+  text-decoration: none;
+}

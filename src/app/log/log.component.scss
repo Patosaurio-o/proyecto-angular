@@ -1,0 +1,30 @@
+.main-content {
+  background-color: #1B0088;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  height: 100vh;
+}
+
+.title {
+  color:white;
+  font-family: Helvetica;
+  font-size: 61px;
+  margin-bottom: 49px;;
+  margin-top: 30vh;
+}
+
+.button {
+  font-family: Arial;
+  font-size: 18px;
+  font-weight: bold;
+  text-decoration: none;
+  background-color: white;
+  border: 1px solid white;
+  border-radius: 5px;
+  color:#150567;
+  width: 143px;
+  padding: 7px;
+  margin-top: 53px;
+  text-align: center;
+}
