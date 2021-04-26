@@ -11,6 +11,7 @@ import { NavComponent } from './view/content/nav/nav.component';
 import { HeadComponent } from './view/content/head/head.component';
 import { Folder1Component } from './view/content/folder1/folder1.component';
 import { Folder2Component } from './view/content/folder2/folder2.component';
+import { DefaultMenuComponent } from './view/content/default-menu/default-menu.component';
 
 
 
@@ -24,7 +25,8 @@ import { Folder2Component } from './view/content/folder2/folder2.component';
     NavComponent,
     HeadComponent,
     Folder1Component,
-    Folder2Component
+    Folder2Component,
+    DefaultMenuComponent
   ],
   imports: [
     BrowserModule,
